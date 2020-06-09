@@ -244,12 +244,12 @@
     },
     "PVPTimedChallengeKillsPaybackMEDIUM": {
       "title": "Revenge",
-      "description": "Kill 4 enemies that have killed you",
+      "description": "Kill 3 enemies that have killed you",
       "standing": 1500
     },
     "PVPTimedChallengeKillsPaybackHARD": {
       "title": "Focused Revenge",
-      "description": "Kill 3 enemies that have killed you in a match",
+      "description": "Kill 2 enemies that have killed you in a match",
       "standing": 3000
     },
     "PVPTimedChallengeFlagReturnEASY": {
