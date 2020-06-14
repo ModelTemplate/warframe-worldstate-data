@@ -352,6 +352,16 @@
       "description": "Score 2 Goals",
       "standing": 1000
     },
+    "PVPTimedChallengeSpeedballGoalsMEDIUM": {
+      "title": "Goal!",
+      "description": "Score 6 Goals",
+      "standing": 3000
+    },
+    "PVPTimedChallengeSpeedballGoalsHARD": {
+      "title": "Focused Goal!",
+      "description": "Score 4 Goals in a match",
+      "standing": 6000
+    },
     "PVPTimedChallengeMatchCompleteEASY": {
       "title": "See it Through",
       "description": "Complete 1 match",
